@@ -1,0 +1,16 @@
+.counter-button {
+    position: relative;
+    cursor: pointer;
+    padding: 2px;
+    height: 45px;
+    width: 220px;
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-left: 770px;
+    bottom: -49px;
+    border-style: none;
+    border-color: rgb(202, 201, 201);
+    background-color: #197278;
+    font-family: 'Lucida Sans unicode', 'lucida grande', sans-serif;
+    color: white;
+}

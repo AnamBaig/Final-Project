@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-collapsible": "^2.10.0",
+    "react-router-dom": "^6.10.0"
+  }
+}

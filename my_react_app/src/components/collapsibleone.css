@@ -1,0 +1,22 @@
+#collaps {
+    display: flex;
+    margin-bottom: 100px;
+    background-color: #eee;
+    color: #444;
+  cursor: pointer;
+  padding: 18px;
+  margin-left: 260px;
+  width: 65%;
+  border: none;
+  text-align: left;
+  font-family: garamond, serif;
+  font-size: 25px;
+  font-weight: bold;
+  color:#293d3b;
+  outline: none;
+}
+
+#collaps:hover {
+    background-color: #ccc;
+}
+

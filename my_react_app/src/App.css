@@ -1,0 +1,131 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+ul li {
+  display: inline-block;
+  padding-top: 30px;
+  padding-left: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 45px;
+  font-family: Garamond, serif;
+  color: rgb(6, 0, 32);
+  padding: 40px;
+  margin: 0;
+}
+
+
+#welcome {
+  position: absolute;
+  margin-top: -25px;
+  margin-left: 425px;
+  font-family: Garamond, serif;
+  color: rgb(19, 72, 78);
+}
+
+#copy {
+  position: absolute;
+  font-size: 20px;
+}
+
+.food-name {
+  position: absolute;
+  top: 575px;
+  margin-left: 410px;
+  font-family: 'lucida sans unicode', 'lucida grande', sans-serif;
+  font-size: 30px;
+  color: #720e00; 
+}
+
+.list {
+  display: inline-block;
+  vertical-align: top;
+  width: 100%;
+}
+
+.list ul li {
+  position: relative;
+  margin: 0px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Garamond, serif;
+  padding: 14px 25px;
+  background-color: transparent;
+  border: 2px solid rgb(255, 255, 255);
+}
+
+.Link-page1 {
+  margin-left: -110px;
+}
+
+.Link-page2 {
+  margin-left: -110px;
+}
+
+a:hover {
+  background-color: rgb(19, 72, 78);
+  color: rgb(255, 255, 255);
+}
+
+.App-header {
+ min-height: 120vh;
+ background: linear-gradient(180deg, #293d3b 8.5%, #edddd4 0%);
+}
+
+#image-menu {
+  position: absolute;
+  width: 320px;
+  height: 300px;
+  left: 300px;
+  top: 250px;
+  border-left: 20px solid white;
+  border-top: 20px solid white;
+  border-bottom: 60px solid white;
+  border-right: 20px solid white;
+}
+
+#image-menu:hover {
+  opacity: 0.8;
+}
+
+#image-menu-two {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  left: 770px;
+  top: 250px;
+  border-left: 20px solid white;
+  border-top: 20px solid white;
+  border-bottom: 60px solid white;
+  border-right: 20px solid white;
+}
+
+#RCake {
+  margin-left: 290px;
+}
+
+#image-menu-two:hover {
+  opacity: 0.8;
+}
+
+.image-logo {
+  position: fixed;
+  width: auto;
+  /*left: 5px;*/
+  margin-left: 1200px;
+  margin-top: -30px;
+  font-family: Century 'Franklin Gothic Medium';
+  color: white;
+  font-size: 60px;
+}
+

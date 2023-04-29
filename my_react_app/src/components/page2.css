@@ -1,0 +1,33 @@
+#image-two-rc {
+    position: absolute;
+  width: 400px;
+  height: 300px;
+  left: 300px;
+  top: 250px;
+  border-left: 20px solid white;
+  border-top: 20px solid white;
+  border-bottom: 20px solid white;
+  border-right: 470px solid white;
+}
+
+.RC-recipe {
+    position: absolute;
+  text-align: left;
+  font-size: 20px;
+  font-family: 'Lucida Sans unicode', 'lucida grande', sans-serif;
+  color: #720e00;
+  padding: 40px;
+  margin-left: 740px;
+  margin-top: -25px;
+  margin-right: 40px;
+}
+
+.buttons-two {
+    margin-left: -20px;
+    margin-top: 45px;
+    color: black;
+}
+
+.RC-counter {
+    margin-left: -30px;
+}

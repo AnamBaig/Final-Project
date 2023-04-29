@@ -1,0 +1,40 @@
+#header2 {
+    text-align: center;
+    font-size: 22px;
+    font-family: Garamond, Serif;
+    color:rgb(19, 72, 78);
+    padding: 0px;
+  }
+
+  .button-nutrition {
+    margin-top: 42px;
+    margin-left: 13px;
+    color: black;
+  }
+
+.recipe {
+    position: absolute;
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Lucida Sans unicode', 'lucida grande', sans-serif;
+    color: #720e00;
+    padding: 40px;
+    margin-left: 800px;
+    margin-top: -10px;
+    margin-right: 40px;
+  }
+  
+  #image {
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    left: 300px;
+    top: 250px;
+    border-left: 20px solid white;
+    border-top: 20px solid white;
+    border-bottom: 20px solid white;
+    border-right: 450px solid white;
+  }
+
+  
+  
